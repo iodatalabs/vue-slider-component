@@ -25,8 +25,8 @@ Live Demo: <https://jsfiddle.net/NightCatSama/2xy72dod/10547/>
 
 ## 🎯 install
 ```bash
-$ yarn add vue-slider-component
-# npm install vue-slider-component --save
+
+# npm i github:iodatalabs/vue-slider-component#3.2.3
 ```
 
 
